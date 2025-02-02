@@ -13,7 +13,4 @@ export class UsersEntity {
 
     @Column()
     email: string
-
-    @Column()
-    password: string
 }
